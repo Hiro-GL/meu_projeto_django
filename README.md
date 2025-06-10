@@ -47,7 +47,7 @@ Após executar este comando, o projeto estará acessível em seu navegador atrav
 
 http://127.0.0.1:8000/
 
-Extra. Como rodar no Replit
+Extra. Como rodar no Replit (https://replit.com/@GabrielLima186/meuprojetodjango)
 
 1. Abra uma aba Shell
 
