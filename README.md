@@ -46,3 +46,11 @@ python manage.py runserver
 Após executar este comando, o projeto estará acessível em seu navegador através do endereço:
 
 http://127.0.0.1:8000/
+
+Extra. Como rodar no Replit
+
+1. Abra uma aba Shell
+
+2. Coloque o codigo python manage.py runserver 0.0.0.0:8000
+
+3. Enter, e pronto.
